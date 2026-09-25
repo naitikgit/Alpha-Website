@@ -1,0 +1,14 @@
+body{font-size:17px;line-height:1.68}
+.announcement{font-size:11px}.links{font-size:14px}.eyebrow{font-size:12px}
+.hero-copy>p{font-size:16px;line-height:1.75}.button{font-size:13px}.text-link{font-size:13px}
+.trust-note{font-size:12px}.trust-items{font-size:13px}.trust-items span{font-size:12px}
+.section-head>p{font-size:15px}.category-card h3{font-size:22px}.category-card p{font-size:14px;line-height:1.75}
+.stat small{font-size:12px}.split-copy>p,.about-copy p{font-size:15px;line-height:1.8}.check-list li{font-size:14px}
+.cta p{font-size:14px}
+.footer-brand p{font-size:13px}.footer h4{font-size:11px}.footer-col a,.footer-col p{font-size:13px}.footer-contact .contact-line,.footer-contact .contact-line a{font-size:12px}.footer-contact small{font-size:10px}.footer-bottom{font-size:11px}
+.page-hero p{font-size:16px;line-height:1.8}.breadcrumb{font-size:12px}.page-banner p{font-size:14px}.page-banner strong{font-size:29px}
+.filter-btn{font-size:12px}.product-meta{font-size:10px}.product-card h3{font-size:20px}.product-card p{font-size:14px;line-height:1.7}.product-foot{font-size:12px}
+.service-card h3{font-size:23px}.service-card p,.process p{font-size:14px;line-height:1.75}.process h3{font-size:18px}.process em{font-size:12px}
+.about-copy h2{font-size:36px}.contact-aside p{font-size:14px}.contact-aside .note{font-size:12px;line-height:1.75}.contact-option h2{font-size:18px}.contact-option p{font-size:13px;line-height:1.8}.contact-option small{font-size:10px}.contact-guidance h3{font-size:18px}.contact-guidance p,.faq-grid p{font-size:13px;line-height:1.75}.faq-grid h3{font-size:16px}.guidance-card .step{font-size:11px}.legal-note{font-size:11px}
+.product-intro-copy p,.service-feature-copy p{font-size:14px;line-height:1.8}
+@media(max-width:680px){body{font-size:16px}.announcement{font-size:9px}.links{font-size:14px}.hero-copy>p{font-size:15px}.trust-items span{font-size:11px}.section-head>p{font-size:14px}.category-card p{font-size:14px}.page-hero p{font-size:15px}.product-card p,.service-card p,.process p,.about-copy p,.contact-aside p{font-size:14px}.contact-option p{font-size:13px}.footer-col a,.footer-col p{font-size:12px}}
